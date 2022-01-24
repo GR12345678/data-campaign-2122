@@ -14,8 +14,13 @@
   - [ ] Other
         - if other specify: ...
 * Experimental Data: 
-  * Describe the classes and types of materials covered. 
-    *  ....
+  * Modeling and Simulation of materials data
+    *  Select the material properties of interest and the corresponding simulation workflow template
+    *  Create a new workflow template
+  * Machine learning of material data 
+    *  Predicting material properties
+    *  Create a new training model
+  * Data analysis of material data (Upload data + analysis data)
 * Access rights: 
   - [ ] Free to all 
   - [ ] Commercial 
